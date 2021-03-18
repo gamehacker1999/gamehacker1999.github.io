@@ -3,12 +3,8 @@
   <channel>
     <title>Tags on Shubham Sachdeva Blog</title>
     <link>https://gamehacker1999.github.io/tags/</link>
-    <description>Shubham Sachdeva Blog (Tags)</description>
+    <description>Recent content in Tags on Shubham Sachdeva Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-    <atom:link href="https://gamehacker1999.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://gamehacker1999.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
