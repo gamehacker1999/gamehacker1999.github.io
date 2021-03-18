@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Mar 2021 15:04:20 -0400</lastBuildDate><atom:link href="https://gamehacker1999.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is the post title</title>
+      <title>Distributing Monte Carlo errors as Blue Noise in Screen Space, Part 1 - Theory and Sorting</title>
       <link>https://gamehacker1999.github.io/posts/mypost/</link>
       <pubDate>Thu, 18 Mar 2021 15:04:20 -0400</pubDate>
       
       <guid>https://gamehacker1999.github.io/posts/mypost/</guid>
-      <description>Content 1</description>
+      <description>Many of us have written a monte carlo raytracer. One of the key results is that the results are extremely noisy, and are usually distributed as white noise in screen space. In order to mitigate this, the usual convention is to increase the number of samples per pixel in order to make the image converge to ground truth. This, however, isn&amp;rsquo;t really possible for real-time applications like games which usually have a target of 16ms per frame.</description>
     </item>
     
   </channel>
