@@ -3,17 +3,22 @@
   <channel>
     <title>Shubham&#39;s Blog</title>
     <link>https://gamehacker1999.github.io/</link>
-    <description>Recent content on Shubham&#39;s Blog</description>
+    <description>Shubham&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 15:04:20 -0400</lastBuildDate><atom:link href="https://gamehacker1999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 15:04:20 -0400</lastBuildDate>
+    
+    <atom:link href="https://gamehacker1999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>This is the post title</title>
       <link>https://gamehacker1999.github.io/posts/mypost/</link>
       <pubDate>Thu, 18 Mar 2021 15:04:20 -0400</pubDate>
       
       <guid>https://gamehacker1999.github.io/posts/mypost/</guid>
-      <description>Content</description>
+      <description>&lt;p&gt;Content&lt;/p&gt;
+</description>
     </item>
     
   </channel>
