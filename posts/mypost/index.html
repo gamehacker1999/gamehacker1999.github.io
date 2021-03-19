@@ -41,7 +41,7 @@
 <p><img src="/posts/Capture.PNG" alt="Figure 4">
 This scene was rendered using my own D3D12 + DXR rendering engine. I used a block size of 4</p>
 <p><img src="/posts/Bluenoise.PNG" alt="Figure 5">
-This is a blue noise texture that I generate using this algorithm</p>
+This is the result of converting white noise to blue noise using my implementation of the algorithm</p>
 <h2 id="limitations">Limitations</h2>
 <p>As you might have noticed from the renders above, there are block artifacts in all of these images. These are caused due to the fact that we are processing the pixels in blocks instead of the whole image at once which means that the results will vary from block to block. Another limitation is that since we have a different noise pattern for each frame, we are going to see a different blue-noise dithering mask, and if we change the blue noise each frame, the blue noise quality gathered in the previous frame is lost.</p>
 <p><img src="/posts/DFT.PNG" alt="Figure 6"></p>
