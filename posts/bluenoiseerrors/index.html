@@ -45,7 +45,7 @@ This is the result of converting white noise to blue noise using my implementati
 <h2 id="limitations">Limitations</h2>
 <p>As you might have noticed from the renders above, there are block artifacts in all of these images. These are caused due to the fact that we are processing the pixels in blocks instead of the whole image at once which means that the results will vary from block to block. Another limitation is that since we have a different noise pattern for each frame, we are going to see a different blue-noise dithering mask, and if we change the blue noise each frame, the blue noise quality gathered in the previous frame is lost.</p>
 <p><img src="/posts/DFT.PNG" alt="Figure 6"></p>
-<p>This DFT shows that the blue noise genrated with just the sorting pass isn&rsquo;t perfectly blue as some low frequency details are clearly present. This can be mitigated using a method called the &lsquo;Retargeting Pass&rsquo; as described by Heitz and Belcour, but that is the topic for part 2 -mostly because at the time of writing I haven&rsquo;t implemented it yet :).</p>
+<p>This DFT shows that the blue noise generated with just the sorting pass isn&rsquo;t perfectly blue as some low frequency details are clearly present. This can be mitigated using a method called the &lsquo;Retargeting Pass&rsquo; as described by Heitz and Belcour, but that is the topic for part 2 -mostly because at the time of writing I haven&rsquo;t implemented it yet :).</p>
 <br>
 <br>
 <br>
