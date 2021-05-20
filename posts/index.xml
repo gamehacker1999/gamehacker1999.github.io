@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Shubham Sachdeva Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 15:04:20 -0400</lastBuildDate><atom:link href="https://gamehacker1999.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 15:04:20 -0400</lastBuildDate><atom:link href="https://gamehacker1999.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributing Monte Carlo errors as Blue Noise in Screen Space, Part 2 - Retargeting Pass</title>
+      <link>https://gamehacker1999.github.io/posts/retargetingpass/</link>
+      <pubDate>Thu, 20 May 2021 15:04:20 -0400</pubDate>
+      
+      <guid>https://gamehacker1999.github.io/posts/retargetingpass/</guid>
+      <description>In the last part of this series, I talked about the theory presented in [1] as well talked about how and why we should implement the sorting pass in order to redistribute the seeds using a dithering tile so that we can distribute the monte carlo errors in real time applications as blue noise in screen space. In this part I want to talk about the shortcomings of just using the sorting pass and how we can retarget seeds between frames in order to accumulate and improve our results over frames.</description>
+    </item>
+    
     <item>
       <title>Distributing Monte Carlo errors as Blue Noise in Screen Space, Part 1 - Theory and Sorting</title>
       <link>https://gamehacker1999.github.io/posts/bluenoiseerrors/</link>
