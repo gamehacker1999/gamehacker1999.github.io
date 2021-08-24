@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Shubham Sachdeva Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 May 2021 15:04:20 -0400</lastBuildDate><atom:link href="https://gamehacker1999.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 16:17:43 -0400</lastBuildDate><atom:link href="https://gamehacker1999.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spatiotemporal Reservoir Resampling (ReSTIR) - Theory and Basic Implementation</title>
+      <link>https://gamehacker1999.github.io/posts/restir/</link>
+      <pubDate>Mon, 23 Aug 2021 16:17:43 -0400</pubDate>
+      
+      <guid>https://gamehacker1999.github.io/posts/restir/</guid>
+      <description>Real time raytracing has become very popular in the last year or so, especially with the release of current generation of consoles which has made it more accessible to people. Even then, raytracing in real time is far slower than rasterization and we are only able to afford very few samples per pixel. This leads to very noisy results, which usually requires a spatio temporal denoising pass. One such domain which can produce noisy results is raytracing direct lighting when there are thousands, or even millions of light sources, which can range from simple point lights, all the way to complex mesh lights.</description>
+    </item>
+    
     <item>
       <title>Distributing Monte Carlo errors as Blue Noise in Screen Space, Part 2 - Retargeting Pass</title>
       <link>https://gamehacker1999.github.io/posts/retargetingpass/</link>
