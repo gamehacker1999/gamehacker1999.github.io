@@ -13,7 +13,7 @@
       <pubDate>Fri, 22 Apr 2022 16:04:30 -0400</pubDate>
       
       <guid>https://gamehacker1999.github.io/posts/ssgi/</guid>
-      <description>Getting Dynamic Real-Time diffuse global illumination is still an open problem. Recent developments by McGuire et al.[1] and Lumen in Unreal Engine 5 seem to provide believable real time global illumination. However this methods are very expensive and cannot support lower or even mid ranged hardware, or do so with significant performance costs. Even so, we have seen both of these technologies in action, Metro Exodus: Enhanced Edition used a version of the DDGI solution and the UE5 demoes &amp;ldquo;Lumen in the land of Nanite&amp;rdquo; and &amp;ldquo;The Matrix Awakens&amp;rdquo; both ran Lumen alongside their fantastic micropolygon geomtry solution Nanite[2].</description>
+      <description>Getting Dynamic Real-Time diffuse global illumination is still an open problem. Recent developments by McGuire et al.[1] and Lumen in Unreal Engine 5 seem to provide believable real time global illumination. However these methods are very expensive and cannot support lower or even mid ranged hardware, or do so with significant performance costs. Even so, we have seen both of these technologies in action, Metro Exodus: Enhanced Edition used a version of the DDGI solution and the UE5 demos &amp;ldquo;Lumen in the land of Nanite&amp;rdquo; and &amp;ldquo;The Matrix Awakens&amp;rdquo; both ran Lumen alongside their fantastic micropolygon geomtry solution Nanite[2].</description>
     </item>
     
     <item>
